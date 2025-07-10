@@ -1,0 +1,28 @@
+.holder
+{
+    background-color: red;
+}
+
+.navbar
+{
+    background-color: violet !important;
+}
+
+.nav-cont
+{
+    display: flex;
+    gap: 50px;
+    justify-content: flex-end;
+    align-items: flex-end;
+    width: 100%;
+    padding-right: 60px;
+}
+
+.nav-link
+{
+  background-color: purple !important;
+  border-radius: 50px;
+  color: white !important;
+  padding-left: 20px !important;
+  padding-right: 20px !important;
+}
